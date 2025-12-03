@@ -1,0 +1,5 @@
+{
+  "name": "Bible Journey Tracker",
+  "description": "A modern, eye-friendly Bible reading tracker that allows users to mark progress chapter by chapter. Includes AI-powered insights for each book.",
+  "requestFramePermissions": []
+}
