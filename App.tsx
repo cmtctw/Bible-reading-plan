@@ -141,7 +141,6 @@ export default function App() {
 
   return (
     <div className="min-h-screen pb-20 bg-[#F7F5F0]">
-      {/* Header removed sticky class */}
       <header className="bg-white border-b border-stone-200">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 py-5">
           <div className="flex flex-col md:flex-row md:justify-between md:items-center gap-4 mb-5">
